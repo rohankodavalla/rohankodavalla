@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on GCP Applications<br>👯 I’m looking to collaborate on projects related to DevOps<br>🌱 I’m currently learning Kubernetes, Ansible<br>
+🔭 I’m currently working on Cloud projects<br>👯 I’m looking to collaborate on projects related to Data Engineering, analysis<br>🌱 I’m currently occupied revising Snowflake<br>
 
 
 ## 🌐 Socials:
